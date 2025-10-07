@@ -2,7 +2,28 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-10-07T02:17:08+00:00</lastmod>
+		<lastmod>2025-10-07T17:22:20+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/privacy-policy/</loc>
